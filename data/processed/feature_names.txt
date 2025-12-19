@@ -1,0 +1,17 @@
+purchase_value
+age
+time_since_signup
+is_immediate_purchase
+total_user_transactions
+purchase_velocity
+ip_first_octet
+source_Ads
+source_Direct
+source_SEO
+browser_Chrome
+browser_FireFox
+browser_IE
+browser_Opera
+browser_Safari
+sex_F
+sex_M
